@@ -5,9 +5,9 @@ published: true
 visible: true
 ---
 
-**Willkommen zum Grav Tutorial!**
+**Willkommen den Grav Tutorials!**
 
-_Bitte lesen Sie zuerst sorgfältig die [Hinweise über diese Seite](/über) bevor Sie mit den Anleitungen beginnen. Vielen Dank._
+_Bitte lies zuerst sorgfältig die [Hinweise über diese Seite](/über), bevor du mit den Anleitungen beginnst. Vielen Dank._
 
 Hier sind noch weitere Links, die nützlich sein können:
 - [Offizielle Grav CMS Dokumentation](https://learn.getgrav.org) _(englisch)_

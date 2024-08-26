@@ -4,14 +4,15 @@ slug: grav
 blog_url: /grav
 sitemap:
   changefreq: monthly
-  priority: 1
-  lastmod: 19-06-2024
-date: 19-06-2024
+  priority: 0.9
+  lastmod: 26-08-2024
+date: 26-08-2024
 taxonomy:
   author: Crabston GmbH
+  category: [ Tutorial Page ]
 feed:
   limit: 10
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_classes: 'text-light overlay-dark-gradient hero-large parallax'
 body_classes: 'header-dark header-transparent'
 show_breadcrumbs: false
 sidebar:
@@ -45,11 +46,11 @@ content:
 hide_summary: true
 ---
 
-Mit dieser Demoseite und den Tutorials zu Grav CMS lernst du alle notwendigen Funktionen kennen, um deine eigene Website effizient mit Grav zu verwalten. Diese Anleitungen sind für Anfänger und Fortgeschrittene geeignet.
+Mit diesen Anleitungen zu Grav CMS lernst du alle notwendigen Funktionen kennen, um deine Website effizient mit Grav zu verwalten. Diese Anleitungen sind für Anfänger und Fortgeschrittene geeignet.
 
 ===
 
-# Grav Tutorial
-## Demoseite & <br> Tutorials zu Grav CMS
+# Grav Tutorials
+## Anleitungen zur Verwaltung von Websites mit Grav CMS
 
-Mit dieser Demoseite und den Tutorials zu Grav CMS lernst du alle notwendigen Funktionen kennen, um deine eigene Website effizient mit Grav zu verwalten. Diese Anleitungen sind für Anfänger und Fortgeschrittene geeignet.
+Mit diesen Anleitungen zu Grav CMS lernst du alle notwendigen Funktionen kennen, um deine Website effizient mit Grav zu verwalten. Diese Anleitungen sind für Anfänger und Fortgeschrittene geeignet.
