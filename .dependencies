@@ -1,0 +1,161 @@
+git:
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: master
+    anchors:
+        url: https://github.com/getgrav/grav-plugin-anchors
+        path: user/plugins/anchors
+        branch: master
+    archives:
+        url: https://github.com/getgrav/grav-plugin-archives
+        path: user/plugins/archives
+        branch: master
+    auto-date:
+        url: https://github.com/getgrav/grav-plugin-auto-date
+        path: user/plugins/auto-date
+        branch: master
+    autoseo:
+        url: https://github.com/Crabston/grav-plugin-autoseo
+        path: user/plugins/autoseo
+        branch: master
+    breadcrumbs:
+        url: https://github.com/getgrav/grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        branch: master
+    dotenv:
+        url: https://github.com/getgrav/grav-plugin-dotenv
+        path: user/plugins/dotenv
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    email-sendgrid:
+        url: https://github.com/getgrav/grav-plugin-email-sendgrid
+        path: user/plugins/email-sendgrid
+        branch: main
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    external_links:
+        url: https://github.com/hibbitts-design/grav-plugin-external-links
+        path: user/plugins/external_links
+        branch: master
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: master
+    flex-objects:
+        url: https://github.com/trilbymedia/grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    healthcheck:
+        url: https://github.com/Crabston/grav-plugin-healthcheck
+        path: user/plugins/healthcheck
+        branch: main
+    image-captions:
+        url: https://github.com/trilbymedia/grav-plugin-image-captions
+        path: user/plugins/image-captions
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    markdown-notices:
+        url: https://github.com/getgrav/grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        branch: master
+    minimal:
+        url: https://github.com/Crabston/grav-theme-minimal
+        path: user/themes/minimal
+        branch: main
+    page-inject:
+        url: https://github.com/getgrav/grav-plugin-page-inject
+        path: user/plugins/page-inject
+        branch: master
+    page-toc:
+        url: https://github.com/trilbymedia/grav-plugin-page-toc
+        path: user/plugins/page-toc
+        branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
+    prism-highlight:
+        url: https://github.com/trilbymedia/grav-plugin-prism-highlight
+        path: user/plugins/prism-highlight
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    quark:
+        url: https://github.com/getgrav/grav-theme-quark
+        path: user/themes/quark
+        branch: master
+    quark-open-publishing:
+        url: https://github.com/hibbitts-design/grav-theme-quark-open-publishing
+        path: user/themes/quark-open-publishing
+        branch: master
+    quick-tray-links:
+        url: https://github.com/trilbymedia/grav-plugin-quick-tray-links
+        path: user/plugins/quick-tray-links
+        branch: master
+    readingtime:
+        url: https://github.com/getgrav/grav-plugin-readingtime
+        path: user/plugins/readingtime
+        branch: master
+    shortcode-core:
+        url: https://github.com/getgrav/grav-plugin-shortcode-core
+        path: user/plugins/shortcode-core
+        branch: master
+    shortcode-gallery-plusplus:
+        url: https://github.com/sal0max/grav-plugin-shortcode-gallery-plusplus
+        path: user/plugins/shortcode-gallery-plusplus
+        branch: master
+    shortcode-media:
+        url: https://github.com/getgrav/grav-plugin-shortcode-media
+        path: user/plugins/shortcode-media
+        branch: master
+    shortcode-owl-carousel:
+        url: https://github.com/getgrav/grav-plugin-shortcode-owl-carousel
+        path: user/plugins/shortcode-owl-carousel
+        branch: master
+    shortcode-ui:
+        url: https://github.com/getgrav/grav-plugin-shortcode-ui
+        path: user/plugins/shortcode-ui
+        branch: master
+    sitemap:
+        url: https://github.com/Crabston/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: develop
+    taxonomylist:
+        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        branch: master
+    tntsearch:
+        url: https://github.com/trilbymedia/grav-plugin-tntsearch
+        path: user/plugins/tntsearch
+        branch: master
+    translate-date:
+        url: https://github.com/Karmalakas/grav-plugin-translate-date
+        path: user/plugins/translate-date
+        branch: main
+    umami-analytics:
+        url: https://github.com/Crabston/grav-plugin-umami-analytics
+        path: user/plugins/umami-analytics
+        branch: main
+    youtube:
+        url: https://github.com/getgrav/grav-plugin-youtube
+        path: user/plugins/youtube
+        branch: master
+    zooming:
+        url: https://github.com/JulianSchoenbaechler/grav-plugin-zooming
+        path: user/plugins/zooming
+        branch: master
