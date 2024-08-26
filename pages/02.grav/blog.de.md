@@ -1,7 +1,7 @@
 ---
-title: Tutorials
-slug: tutorial
-blog_url: /tutorial
+title: Grav Tutorials
+slug: grav
+blog_url: /grav
 sitemap:
   changefreq: monthly
   priority: 1
