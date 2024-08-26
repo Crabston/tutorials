@@ -1,6 +1,6 @@
 # Grav Tutorial
 
-Demo site & Tutorials to Grav CMS
+Tutorials to Grav CMS and more Web & IT-related topics (German).
 
 ## Installation
 
