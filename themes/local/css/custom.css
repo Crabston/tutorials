@@ -66,4 +66,8 @@ body input:focus, body input:focus-visible, body textarea:focus, body textarea:f
   box-shadow: 0 0 0 0.1rem rgba(0, 92, 212, 0.25);
 }
 
+body.header-transparent #header:not(.scrolled) .title {
+  color: white;
+}
+
 /*# sourceMappingURL=custom.css.map */

@@ -3,8 +3,8 @@ title: Über
 sitemap:
   changefreq: yearly
   priority: 0.5
-  lastmod: 19-06-2024
-date: 19-06-2024
+  lastmod: 26-08-2024
+date: 26-08-2024
 ---
 
 # Über diese Seite
