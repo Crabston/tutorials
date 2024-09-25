@@ -26,7 +26,7 @@ Dabei lernst du nicht nur die Standardfunktionen kennen, sondern lernst auch, wi
 
 ## Basiswissen
 
-Für diese Anleitung benötigst du Grundkenntnisse in Grav. Du solltest die Anleitung [Seiten – Grundlagen](/tutorial/grundlagen/seiten) gelesen haben und bereits erste Erfahrungen mit Grav gesammelt haben.
+Für diese Anleitung benötigst du Grundkenntnisse in Grav. Du solltest die Anleitung [Seiten – Grundlagen](/grav/grundlagen/seiten) gelesen haben und bereits erste Erfahrungen mit Grav gesammelt haben.
 
 ## Menüleiste
 

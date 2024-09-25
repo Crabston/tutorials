@@ -19,7 +19,7 @@ hero_classes: 'text-dark overlay-dark parallax'
 
 ===
 
-!!! Dies ist eine Ergänzung zur Anleitung [Seiten / Seiten bearbeiten](/tutorial/seiten/seiten-bearbeiten). Dort werden die standardmässigen Tabs im Inhaltseditor erklärt, wie Inhalt, Optionen, Erweitert und Sicherheit. 
+!!! Dies ist eine Ergänzung zur Anleitung [Seiten / Seiten bearbeiten](/grav/seiten/seiten-bearbeiten). Dort werden die standardmässigen Tabs im Inhaltseditor erklärt, wie Inhalt, Optionen, Erweitert und Sicherheit. 
 
 ## weitere Optionen
 
@@ -159,7 +159,7 @@ Bei Blog Beiträgen können spezifische Einstellungen für einzelne Beiträge vo
 - **Feed Beschreibung**: Beschreibung des Feeds
 
 ### Formular
-Formulare können mit spezifischen Einstellungen konfiguriert werden. Dieser Abschnitt hier zeigt nur die Optionen via das Admin Panel. Eine Anleitung zum Erstellen von Formularen findest du unter [Tutorials / Seiten / Kontaktformular erstellen](/tutorial/seiten/kontaktformular-erstellen).
+Formulare können mit spezifischen Einstellungen konfiguriert werden. Dieser Abschnitt hier zeigt nur die Optionen via das Admin Panel. Eine Anleitung zum Erstellen von Formularen findest du unter [Grav Tutorials / Seiten / Kontaktformular erstellen](/grav/seiten/kontaktformular-erstellen).
 ![Formular](form.webp?lightbox)
 
 - **Formular Name**: Name des Formulars für die interne Referenz

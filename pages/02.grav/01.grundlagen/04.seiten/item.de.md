@@ -107,7 +107,7 @@ In den Optionen findest du gängige Einstellungen, die du für eine Seite vorneh
 | `Category` _(Blog)_      | Kategorie, die für die Seite verwendet werden soll                 |
 | `Tags` _(Blog)_          | Tags, die für die Seite verwendet werden sollen                    |
 
-!!! Eine vollständige Liste der verfügbaren Optionen findest du unter [Tutorials / Seiten / Seiten bearbeiten # Optionen](/tutorial/seiten/seiten-bearbeiten#optionen)
+!!! Eine vollständige Liste der verfügbaren Optionen findest du unter [Grav Tutorials / Seiten / Seiten bearbeiten # Optionen](/grav/seiten/seiten-bearbeiten#optionen)
 
 ### Erweiterte Optionen
 Die erweiterten Optionen bieten weitere Einstellungen, die jedoch für die meisten Benutzer nicht relevant sind.
@@ -123,7 +123,7 @@ Die erweiterten Optionen bieten weitere Einstellungen, die jedoch für die meist
 | `Body CSS Klassen`   | CSS-Klassen, die für den Body der Seite verwendet werden sollen |
 | `Slug`               | URL, an der die Seite erreichbar sein soll                      |
 
-!!! Eine vollständige Liste der verfügbaren erweiterten Optionen findest du unter [Tutorials / Seiten / Seiten bearbeiten # Erweitert](/tutorial/seiten/seiten-bearbeiten#erweitert)
+!!! Eine vollständige Liste der verfügbaren erweiterten Optionen findest du unter [Grav Tutorials / Seiten / Seiten bearbeiten # Erweitert](/grav/seiten/seiten-bearbeiten#erweitert)
 
 ## Module
 

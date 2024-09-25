@@ -19,7 +19,7 @@ hero_classes: 'text-dark overlay-dark parallax'
 
 ===
 
-!!! Diese Anleitung zeigt nicht, wie Formulare im Admin Panel erstellt werden können. Eine Anleitung zu den Optionen über das Admin Panel findest du über [Tutorials / Seiten / Seiten bearbeiten - erweitert #Formular](/tutorial/seiten/seiten-bearbeiten-erweitert#formular).
+!!! Diese Anleitung zeigt nicht, wie Formulare im Admin Panel erstellt werden können. Eine Anleitung zu den Optionen über das Admin Panel findest du über [Grav Tutorials / Seiten / Seiten bearbeiten - erweitert #Formular](/grav/seiten/seiten-bearbeiten-erweitert#formular).
 
 ! Für diese Anleitung ist etwas mehr Erfahrung mit Grav erforderlich, um alle Informationen in dieser Anleitung zu verstehen und anzuwenden. Optimal hast du auch bereits mit dem Frontmatter gearbeitet.
 ! Ein Standard Formular kann jedoch auch ohne Vorkenntnisse erstellt werden.
@@ -48,7 +48,7 @@ Ein Beispielformular für eine Kontaktseite könnte folgende Felder enthalten un
 - Betreff
 - Nachricht
 
-Du findest ein Beispiel für ein Kontaktformular unter [Beispiele / Formular](/beispiele/formular).
+Du findest ein Beispiel für ein Kontaktformular auf der Demoseite unter [Beispiele / Formular](https://grav.demo.crabston.dev/beispiele/formular).
 
 Um ein Formular zu erstellen, muss eine Seite mit dem Typ `form` erstellt werden. Diese **muss** anschliessend über die Expertenansicht bearbeitet werden um die Felder zu erstellen. Füge dazu den folgenden Code in die Frontmatter der Seite ein:
 
@@ -146,7 +146,7 @@ Zudem gibt es noch spezielle Typen für Layouts:
 - `tabs`: Felder in Tabs anordnen
 - `section`: Felder in Abschnitten anordnen
 
-!!! Du findest Beispiele für die verschiedenen Felder auf der Seite [Beispiele / Formular](/beispiele/formular).
+!!! Du findest Beispiele für die verschiedenen Felder auf der Demoseite unter [Beispiele / Formular](https://grav.demo.crabston.dev/beispiele/formular).
 
 ### _Standard_
 Standardmässig hat ein Feld folgende Einstellungen:

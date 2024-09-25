@@ -42,8 +42,8 @@ Eine Standardseite ist eine einfache Seite, die Text und Medien enthält. Sie is
 
 **Weitere Informationen:**
 - Seiten Template: `Default`
-- Beispiel: [Beispiele/Standardseite](/beispiele/standardseite)
-- Originaldatei: [/pages/04.beispiele/01.standardseite/default.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/01.standardseite/default.md?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/standardseite)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/01.standardseite/default.md?plain=1)
 
 ### Modular
 
@@ -53,8 +53,8 @@ Eine modulare Seite ist eine Seite, die aus mehreren Modulen besteht. Jedes Modu
 
 **Weitere Informationen:**
 - Seiten Template: `Modular`
-- Beispiel: [Beispiele/Modulare Seite](/beispiele/modulare-seite)
-- Originaldatei: [/pages/04.beispiele/02.modulare-seite/modular.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/02.modulare-seite/modular.md?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/modulare-seite)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/04.modulare-seite/modular.md?plain=1)
 - Unterseiten: _siehe [Modulare Typen](#modulare-typen)_
 
 ### Blog
@@ -65,8 +65,8 @@ Eine Blogseite ist eine Seite, die mehrere Beiträge enthält. Sie wird für Blo
 
 **Weitere Informationen:**
 - Seiten Template: `Blog`
-- Beispiel: [Tutorial](/tutorial)
-- Originaldatei: [/pages/01.tutorial/blog.de.md](https://github.com/Crabston/grav-demo/blob/main/pages/01.tutorial/blog.de.md?plain=1)
+- [Beispiel](/grav)
+- [Originaldatei](https://github.com/Crabston/grav-tutorial/blob/main/pages/02.grav/blog.de.md?plain=1)
 
 ### Beitrag
 
@@ -76,8 +76,8 @@ Ein Beitrag ist ein einzelner Beitrag einer Blogseite. Dieser kann kategorisiert
 
 **Weitere Informationen:**
 - Seiten Template: `Item`
-- Beispiel: [Tutorial/Seiten/Seiten Typen](/tutorial/seiten/seiten-typen)
-- Originaldatei: [/pages/01.tutorial/04.seiten/04.seiten-typen/item.de.md](https://github.com/Crabston/grav-demo/blob/main/pages/01.tutorial/04.seiten/04.seiten-typen/item.de.md?plain=1)
+- [Beispiel](/grav/seiten/seiten-typen)
+- [Originaldatei](https://github.com/Crabston/grav-tutorial/blob/main/pages/02.grav/04.seiten/04.seiten-typen/item.de.md?plain=1)
 
 ### Formular
 
@@ -87,10 +87,10 @@ Ein Formular ist eine Komponente, um ein Formular anzuzeigen, welches durch eine
 
 **Weitere Informationen:**
 - Seiten Template: `Form`
-- Beispiel: [Beispiele/Formular](/beispiele/formular)
-- Originaldatei: [/pages/04.beispiele/07.formular/form.de.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/07.formular/form.de.md?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/formular)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/07.formular/form.de.md?plain=1)
 - weitere Referenzen:
-  - [Tutorials / Seiten / Kontaktformular erstellen](/tutorial/seiten/kontaktformular-erstellen)
+  - [Grav Tutorials / Seiten / Kontaktformular erstellen](/grav/seiten/kontaktformular-erstellen)
 
 ### H5P
 
@@ -114,8 +114,8 @@ Eine Sektion ist eine komplexere Komponente, um Seiten mit verschiedenen Sektion
   - `Sections` (Hauptseite der Sektionen/ Übergeordnete)
   - `Section` (einzelne Sektion)
   - `Subsection` (Untersektion)
-- Beispiel: [Beispiele/Multi Sektion Seite](/beispiele/multi-sektion-seite)
-- Originaldatei: [/pages/04.beispiele/03.multi-sektion-seite](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/03.multi-sektion-seite?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/multi-sektion-seite)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/03.multi-sektion-seite?plain=1)
 
 ### Präsentation
 
@@ -156,8 +156,8 @@ Das Text Modul ist ein modularer Abschnitt, der Text und Medien anzeigt. Es ist 
 
 **Weitere Informationen:**
 - Seiten Template: `Text`
-- Beispiel: [Beispiele/Modulare Seite/Easy Content](/beispiele/modulare-seite#easy_content)
-- Originaldatei: [/pages/04.beispiele/02.modulare-seite/03._callout/text.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/02.modulare-seite/03._callout/text.md?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/modulare-seite-grav#easy_content)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/02.modulare-seite-grav/03._callout/text.md?plain=1)
 
 ### Hero
 
@@ -167,8 +167,8 @@ Das Hero Modul wird meist als Titelelement oder Header verwendet. Es ist ein auf
 
 **Weitere Informationen:**
 - Seiten Template: `Hero`
-- Beispiel: [Beispiele/Modulare Seite/Top](/beispiele/modulare-seite#top)
-- Originaldatei: [/pages/04.beispiele/02.modulare-seite/01._hero/hero.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/02.modulare-seite/01._hero/hero.md?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/modulare-seite-grav#top)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/02.modulare-seite-grav/01._hero/hero.md?plain=1)
 
 ### Nachricht
 
@@ -207,12 +207,8 @@ Abschnitt für Features, die mit Icons hervorgehoben werden sollen. Diese könne
 
 **Weitere Informationen:**
 - Seiten Template: `Features`
-- Beispiele: 
-  - [Beispiele/Modulare Seite/Features](/beispiele/modulare-seite#features)
-  - [Beispiele/Modulare Seite/Highlights](/beispiele/modulare-seite#highlights)
-- Originaldateien:
-  - [/pages/04.beispiele/02.modulare-seite/02._highlights/features.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/02.modulare-seite/02._highlights/features.md?plain=1)
-  - [/pages/04.beispiele/02.modulare-seite/04._features/features.md](https://github.com/Crabston/grav-demo/blob/main/pages/04.beispiele/02.modulare-seite/04._features/features.md?plain=1)
+- [Beispiel](https://grav.demo.crabston.dev/beispiele/modulare-seite-grav#features)
+- [Originaldatei](https://github.com/Crabston/grav-demo/blob/main/pages/03.beispiele/02.modulare-seite-grav/02._highlights/features.md?plain=1)
 
 ### Sponsoren
 

@@ -153,4 +153,4 @@ Hier können die Berechtigungen der Seite bearbeitet werden. Dies betrifft beisp
 
 ### weiteres
 
-Je nach Seitentyp und Konfiguration des Systems können weitere Optionen zur Verfügung stehen. Dies ist zum Beispiel bei Blogs & Beiträgen der Fall. Auch durch Plugins können weitere Optionen hinzugefügt werden. Eine Anleitung zu diesen Optionen findest du im [Tutorial Seiten bearbeiten - erweitert](/tutorial/seiten/seiten-bearbeiten-erweitert).
+Je nach Seitentyp und Konfiguration des Systems können weitere Optionen zur Verfügung stehen. Dies ist zum Beispiel bei Blogs & Beiträgen der Fall. Auch durch Plugins können weitere Optionen hinzugefügt werden. Eine Anleitung zu diesen Optionen findest du im Tutorial [Seiten bearbeiten - erweitert](/grav/seiten/seiten-bearbeiten-erweitert).

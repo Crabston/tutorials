@@ -45,7 +45,7 @@ Oft ist es auch hilfreich, ein Bild zuzuschneiden, um den Fokus auf das Wesentli
 
 Bevor du ein Bild in Grav verwendest, solltest du es optimieren. Das bedeutet, dass du die Grösse des Bildes reduzierst, um die Ladezeit der Seite zu verkürzen. Dazu musst du dir vorher überlegen, was der Zweck des Bildes ist und wie gross es sein muss, um diesen Zweck zu erfüllen.
 
-Es gibt verschiedene Tools, mit denen du Bilder bearbeiten und optimieren kannst. Für die Bildbearbeitung empfehle ich GIMP, da es ein kostenloses Tool ist. Für die Bildoptimierung empfehle ich Squoosh. Zudem gibt es hier auch eine [Anleitung zur Bildoptimierung mit Squoosh](/tutorial/bilder-mit-squoosh-bearbeiten).
+Es gibt verschiedene Tools, mit denen du Bilder bearbeiten und optimieren kannst. Für die Bildbearbeitung empfehle ich GIMP, da es ein kostenloses Tool ist. Für die Bildoptimierung empfehle ich Squoosh. Zudem gibt es hier auch eine [Anleitung zur Bildoptimierung mit Squoosh](/grav/bilder-mit-squoosh-bearbeiten).
 
 ## Videos
 
