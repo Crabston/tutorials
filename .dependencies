@@ -43,6 +43,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
         branch: master
+    hadron:
+        url: https://github.com/Crabston/grav-theme-hadron
+        path: user/themes/hadron
+        branch: main
     healthcheck:
         url: https://github.com/Crabston/grav-plugin-healthcheck
         path: user/plugins/healthcheck
@@ -55,10 +59,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-markdown-notices
         path: user/plugins/markdown-notices
         branch: master
-    minimal:
-        url: https://github.com/Crabston/grav-theme-minimal
-        path: user/themes/minimal
-        branch: main
     page-toc:
         url: https://github.com/trilbymedia/grav-plugin-page-toc
         path: user/plugins/page-toc
@@ -78,10 +78,6 @@ git:
     quark:
         url: https://github.com/getgrav/grav-theme-quark
         path: user/themes/quark
-        branch: master
-    quark-open-publishing:
-        url: https://github.com/hibbitts-design/grav-theme-quark-open-publishing
-        path: user/themes/quark-open-publishing
         branch: master
     quick-tray-links:
         url: https://github.com/trilbymedia/grav-plugin-quick-tray-links

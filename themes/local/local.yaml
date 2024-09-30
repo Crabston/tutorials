@@ -5,6 +5,5 @@ streams:
      prefixes:
        '':
        - user/themes/local
-       - user/themes/minimal
-       - user/themes/quark-open-publishing
+       - user/themes/hadron
        - user/themes/quark
