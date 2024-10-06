@@ -7,6 +7,7 @@ sitemap:
   lastmod: 07-10-2024
 date: 07-10-2024
 taxonomy:
+  category: Hadron
   tag: [ Theme, Einleitung ]
 header_image_file: hero.webp
 hero_image: hero.webp
@@ -20,7 +21,7 @@ hero_classes: 'text-light overlay-dark parallax'
 ## Einleitung
 Das Hadron Theme ist ein modernes [Grav](https://getgrav.org) Theme, welches auf [Quark](https://github.com/getgrav/grav-theme-quark) basiert. Als Child-Theme von Quark enthält es erweiterte Funktionen als das ursprüngliche Quark Theme. Zudem bietet es erweiterte Gestaltungsoptionen.
 
-## Hadron Skeleton
+## Hadron
 Hadron gibt es in 2 Varianten: als Theme und als Skeleton. Hierbei beinhaltet das Skeleton das Theme, sowie weitere Funktionen und Konfigurationen. Lerne mehr über das [Hadron Skeleton](/hadron/skeleton/einleitung).
 
 ## Funktionen
@@ -52,4 +53,4 @@ Das Hadron Theme bietet erweiterte Theme Optionen, um das Aussehen und Verhalten
 Das Hadron Theme enthält weitere Verbesserungen, um die Benutzererfahrung zu verbessern und das Theme an die Bedürfnisse der Benutzer anzupassen.
 
 ## weitere Schritte
-Um das Hadron Theme zu installieren, folge der Anleitung [Hadron Theme Installatieren](/hadron/theme/installation).
+Um das Hadron Theme zu installieren, folge der Anleitung [Hadron Theme Installation](/hadron/theme/installation).

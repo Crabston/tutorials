@@ -7,8 +7,8 @@ sitemap:
   lastmod: 06-10-2024
 date: 06-10-2024
 taxonomy:
-  category: Allgemein
-  tag: [ Allgemein ] # TODO: check featured tag
+  category: Hadron
+  tag: [ Einleitung ] # TODO: check featured tag
 header_image_file: hero.webp
 hero_image: hero.webp
 hero_classes: 'text-light overlay-dark parallax'

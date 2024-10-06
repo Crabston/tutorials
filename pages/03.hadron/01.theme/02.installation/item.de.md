@@ -7,6 +7,7 @@ sitemap:
   lastmod: 07-10-2024
 date: 07-10-2024
 taxonomy:
+  category: Hadron
   tag: [ Theme, Installation ]
 header_image_file: hero.webp
 hero_image: hero.webp
