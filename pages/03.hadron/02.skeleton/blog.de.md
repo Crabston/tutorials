@@ -7,8 +7,8 @@ sitemap:
   lastmod: 06-10-2024
 date: 06-10-2024
 taxonomy:
-  category: [ Hadron Skeleton ]
-  tag: [ Hadron Skeleton, Kategorie ]
+  category: [ Skeleton ]
+  tag: [ Skeleton, Kategorie ]
   author: Crabston GmbH
 hero_classes: 'text-light overlay-dark parallax'
 body_classes: 'header-dark header-transparent'

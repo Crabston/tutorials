@@ -7,8 +7,8 @@ sitemap:
   lastmod: 06-10-2024
 date: 06-10-2024
 taxonomy:
-  category: [ Hadron Theme ]
-  tag: [ Hadron Theme, Kategorie ]
+  category: [ Theme ]
+  tag: [ Theme, Kategorie ]
   author: Crabston GmbH
 hero_classes: 'text-light overlay-dark parallax'
 body_classes: 'header-dark header-transparent'
