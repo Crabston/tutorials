@@ -22,7 +22,7 @@ content:
     '@taxonomy.category': 'Tutorial Page'
   order:
     by: folder
-    dir: dsc
+    dir: asc
   url_taxonomy_filters: true
 ---
 
