@@ -1,6 +1,6 @@
 ---
 title: Hadron Einleitung
-slug: hadron-einleitung
+slug: einleitung
 sitemap:
   changefreq: yearly
   priority: 0.5
