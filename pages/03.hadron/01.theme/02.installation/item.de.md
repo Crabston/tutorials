@@ -4,8 +4,8 @@ slug: installation
 sitemap:
   changefreq: yearly
   priority: 0.5
-  lastmod: 07-10-2024
-date: 07-10-2024
+  lastmod: 08-10-2024
+date: 08-10-2024
 taxonomy:
   category: Hadron
   tag: [ Theme, Installation ]
