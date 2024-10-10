@@ -63,7 +63,7 @@ Wenn du das [Admin Plugin](https://github.com/getgrav/grav-plugin-admin) nutzt, 
 
 Das Theme wird nun in deinem `/user/themes` Verzeichnis installiert. Zudem kann es über das Admin Plugin aktualisiert werden, wenn eine neue Version verfügbar ist.
 
-### 4. manuelle Installation
+### 4. manuelle Installation (nicht empfohlen)
 Um das Theme manuell zu installieren, lade einfach die Zip-Version dieses Repositories herunter und entpacke sie unter `/deine/seite/grav/user/themes`. Benenne den Ordner dann in `hadron` um. Die Dateien des Themes können entweder auf [GitHub](https://github.com/Crabston/grav-theme-hadron) oder über [GetGrav.org](http://getgrav.org/downloads/themes) gefunden werden.
 
 Du solltest nun alle Theme-Dateien unter `/deine/seite/grav/user/themes/hadron` haben.
