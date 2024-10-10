@@ -68,7 +68,7 @@ To manually install the theme, simply download the zip version of this repositor
 
 You should now have all theme files under `/your/site/grav/user/themes/hadron`.
 
-## further steps
+## Next steps
 After installing the theme, you can activate the theme in the `Grav Admin` interface. To do this, go to the `Themes` section and select `Hadron`. Click on `Activate` to activate the theme.
 
 The theme is now activated and should be visible on your site. You can now customize the theme settings and design the page to your liking. Learn more about the [Theme Options](/hadron/theme/options).
