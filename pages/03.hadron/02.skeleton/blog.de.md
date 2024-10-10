@@ -15,7 +15,7 @@ body_classes: 'header-dark header-transparent'
 show_breadcrumbs: true
 sidebar:
 	show_popular_tags: true
-	show_feed: true
+	show_feed: false
 	show_toc: false
 bricklayer_layout: true
 child_type: item
