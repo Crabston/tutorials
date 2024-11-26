@@ -1,5 +1,6 @@
 ---
-title: Hadron Theme Optionen
+title: Optionen | Hadron Theme
+menu: Optionen
 slug: optionen
 sitemap:
   changefreq: yearly

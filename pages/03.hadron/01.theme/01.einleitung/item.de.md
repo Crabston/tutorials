@@ -1,5 +1,6 @@
 ---
-title: Hadron Theme Einleitung
+title: Einleitung | Hadron Theme
+menu: Einleitung
 slug: einleitung
 sitemap:
   changefreq: yearly

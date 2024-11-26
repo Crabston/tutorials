@@ -1,5 +1,6 @@
 ---
 title: Einleitung | Hadron Skeleton
+menu: Einleitung
 slug: einleitung
 sitemap:
   changefreq: yearly

@@ -1,5 +1,6 @@
 ---
-title: Hadron Theme Anpassen
+title: Anpassen | Hadron Theme
+menu: Anpassen
 slug: anpassen
 sitemap:
   changefreq: yearly

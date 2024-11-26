@@ -1,5 +1,6 @@
 ---
-title: Hadron Theme Installation
+title: Installation | Hadron Theme
+menu: Installation
 slug: installation
 sitemap:
   changefreq: yearly

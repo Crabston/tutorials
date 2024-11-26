@@ -1,5 +1,7 @@
 ---
+# TODO: translate
 title: Setup | Hadron Skeleton
+menu: Setup
 slug: setup
 sitemap:
   changefreq: yearly

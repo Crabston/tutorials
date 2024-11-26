@@ -1,5 +1,6 @@
 ---
-title: Hadron Theme Customization
+title: Customization | Hadron Theme
+menu: Customization
 slug: customization
 sitemap:
   changefreq: yearly

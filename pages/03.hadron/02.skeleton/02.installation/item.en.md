@@ -1,5 +1,6 @@
 ---
 title: Installation | Hadron Skeleton
+menu: Installation
 slug: installation
 sitemap:
   changefreq: yearly
