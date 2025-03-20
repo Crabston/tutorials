@@ -1,5 +1,5 @@
 ---
-title: Hadron Tutorials
+title: Hadron
 slug: hadron
 blog_url: /hadron
 sitemap:
