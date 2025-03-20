@@ -1,12 +1,12 @@
 ---
-title: Hadron
-slug: hadron
-blog_url: /hadron
+title: Web & Internet
+slug: web-internet
+blog_url: /web-internet
 sitemap:
   changefreq: monthly
   priority: 0.9
-  lastmod: 10-10-2024
-date: 10-10-2024
+  lastmod: 20-03-2025
+date: 20-03-2025
 taxonomy:
   author: Crabston GmbH
   category: [ Tutorial Page ]
@@ -46,11 +46,11 @@ content:
 hide_summary: true
 ---
 
-This collection of tutorials is specific to using the Hadron Theme & Skeleton for Grav CMS. Other themes and skeletons have different requirements and features and may not work with these tutorials.
+Hir findest du allgemeine Anleitungen zum Web & Internet. Auch andere Themen, die nicht in eine bestehende Kategorie eingeordnet werden können, findest du hier.
 
 ===
 
-# Hadron Tutorials
-## Guides for the Hadron Theme & Skeleton
+# Web & Internet
+## allgemeine Anleitungen zum Thema Web & Internet
 
-This collection of tutorials is specific to using the Hadron Theme & Skeleton for Grav CMS. Other themes and skeletons have different requirements and features and may not work with these tutorials.
+Hir findest du allgemeine Anleitungen zum Web & Internet. Auch andere Themen, die nicht in eine bestehende Kategorie eingeordnet werden können, findest du hier.

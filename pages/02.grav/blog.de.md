@@ -1,5 +1,5 @@
 ---
-title: Grav Tutorials
+title: Grav
 slug: grav
 blog_url: /grav
 sitemap:
