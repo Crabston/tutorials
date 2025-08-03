@@ -1,0 +1,11 @@
+{# Note: using taxonomylist.getDescendantPagesTags() instead of taxonomylist.getChildPagesTags() to get all descendants of a blog page #}
+{% set taxlist = children_only ? taxonomylist.getDescendantPagesTags() : taxonomylist.get() %}
+
+{% if taxlist %}
+<span class="tags">
+    {% for tax,value in taxlist[taxonomy] %}
+        {% set label_class = uri.param(taxonomy) == tax ? 'label-primary' : 'label-secondary' %}
+        <a class="label label-rounded {{ label_class }}" href="{{ base_url }}/{{ taxonomy }}{{ config.system.param_sep }}{{ tax }}">{{ tax }}: {{ value }}</a>
+    {% endfor %}
+</span>
+{% endif %}

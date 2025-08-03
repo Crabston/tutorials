@@ -100,9 +100,9 @@ git:
         path: user/plugins/sitemap
         branch: develop
     taxonomylist:
-        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        url: https://github.com/Crabston/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
-        branch: master
+        branch: fix/taxonomy-descendants
     tntsearch:
         url: https://github.com/trilbymedia/grav-plugin-tntsearch
         path: user/plugins/tntsearch
