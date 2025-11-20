@@ -20,7 +20,7 @@ Crabston Tutorials ist eine Seite der [Crabston GmbH](https://crabston.ch/?utm_s
 ## Kontakt
 Wenn Sie Fragen oder Anregungen zu den Anleitungen oder zu dieser Seite haben, dürfen Sie uns gerne kontaktieren. Wir freuen uns über Ihr Feedback und helfen Ihnen gerne weiter. Unsere Kontaktdaten finden Sie auf der [Kontaktseite](https://crabston.ch/über/kontakt?utm_source=tutorials.crabston.ch&utm_medium=contact).
 
-Sollten Sie technische Probleme mit Ihrer Website haben, die nicht durch die Anleitungen gelöst werden können, kontaktieren Sie bitte Ihren Webmaster oder wenden Sie sich an uns via [support@crabston.dev](mailto:support@crabston.dev) (nur für Kunden der Crabston GmbH mit einem Supportvertrag oder gegen eine Entschädigung).
+Sollten Sie technische Probleme mit Ihrer Website haben, die nicht durch die Anleitungen gelöst werden können, kontaktieren Sie bitte Ihren Webmaster oder wenden Sie sich an uns via [safe-email autolink="true" icon="envelope-o"]support@crabston.dev[/safe-email] (nur für Kunden der Crabston GmbH mit einem Supportvertrag oder gegen eine Entschädigung).
 
 ## Rechtliches
 Weitere Informationen zu den rechtlichen Aspekten dieser Seite finden Sie auf dem [Impressum](https://crabston.ch/über/impressum) und [Datenschutz](https://crabston.ch/über/datenschutz) der Crabston GmbH.

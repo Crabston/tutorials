@@ -34,4 +34,4 @@ Während dieser Zeit ist das Anmelden auf neuen Geräten oder Synchronisieren vo
 
 ## Kontakt
 
-Wenn du Fragen zu unserem Bitwarden Server hast oder ein Konto erstellen möchtest, kannst du dich gerne an uns wenden: [support@crabston.dev](mailto:support@crabston.dev)
+Wenn du Fragen zu unserem Bitwarden Server hast oder ein Konto erstellen möchtest, kannst du dich gerne an uns wenden: [safe-email autolink="true" icon="envelope-o"]support@crabston.dev[/safe-email]

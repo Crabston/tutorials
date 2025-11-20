@@ -20,7 +20,7 @@ Crabston Tutorials is a site made by [Crabston GmbH](https://crabston.ch) with g
 ## Contact
 If you have any questions or suggestions about the guides or this site, feel free to contact us. We appreciate your feedback and are happy to help. You can find our contact details on the [contact page (German)](https://crabston.ch/über/kontakt).
 
-If you have technical issues with your website that cannot be solved by the guides, please contact your webmaster or contact us via [support@crabston.dev](mailto:support@crabston.dev) (only for Crabston GmbH customers with a support contract or for a fee).
+If you have technical issues with your website that cannot be solved by the guides, please contact your webmaster or contact us via [safe-email autolink="true" icon="envelope-o"]support@crabston.dev[/safe-email] (only for Crabston GmbH customers with a support contract or for a fee).
 
 ## Legal
 For more information on the legal aspects of this site, please refer to the [imprint (German)](https://crabston.ch/über/impressum) and [privacy policy (German)](https://crabston.ch/über/datenschutz) of Crabston GmbH.
